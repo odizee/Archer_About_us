@@ -259,7 +259,7 @@ nav {
   
     .wave-con {
         position: relative;
-        right: vw;
+        right: 4vw;
     }
     
     .work-w-us {
@@ -289,13 +289,13 @@ nav {
     }
     
     .work-w-us {
-        left: 1.4vw;
+        left: .0vw;
     }
     
      
     .wave-con {
         position: relative;
-        right: 3vw;
+        right: 4vw;
     }
 }
 
